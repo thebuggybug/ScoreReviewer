@@ -1,0 +1,62 @@
+{
+  "candidates": [
+    {
+      "name": "Amrit Sharma",
+      "email": "amrit@example.com",
+      "role_applied": "Backend Engineer",
+      "status": "new",
+      "skills": ["Python", "FastAPI", "PostgreSQL"],
+      "internal_notes": "Strong portfolio. Schedule technical screen.",
+      "ai_summary": null,
+      "scores": [
+        {
+          "category": "Technical",
+          "score": 4,
+          "note": "Good problem solving"
+        }
+      ]
+    },
+    {
+      "name": "Bharat Gopali",
+      "email": "bharat@example.com",
+      "role_applied": "Full Stack Developer",
+      "status": "reviewed",
+      "skills": ["React", "Node.js", "TypeScript"],
+      "internal_notes": "Referral from engineering manager.",
+      "ai_summary": null,
+      "scores": [
+        {
+          "category": "Communication",
+          "score": 5,
+          "note": "Clear and concise"
+        }
+      ]
+    },
+    {
+      "name": "Chandan Kumar",
+      "email": "chandan@example.com",
+      "role_applied": "Backend Engineer",
+      "status": "hired",
+      "skills": ["Python", "Django", "AWS"],
+      "internal_notes": "Accepted offer.",
+      "ai_summary": "Experienced backend engineer with solid cloud skills.",
+      "scores": [
+        {
+          "category": "Technical",
+          "score": 5,
+          "note": "Excellent depth"
+        }
+      ]
+    },
+    {
+      "name": "Gita Pandey",
+      "email": "git@example.com",
+      "role_applied": "Frontend Engineer",
+      "status": "rejected",
+      "skills": ["React", "CSS", "Vite"],
+      "internal_notes": "Did not meet bar on system design.",
+      "ai_summary": null,
+      "scores": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+database.db
+.fastapi/
+__pycache__/
+*.pyc
+.pytest_cache/
