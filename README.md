@@ -202,7 +202,7 @@ I’m eager to keep learning the backend side — this project was my first real
 
 Backend must be running on http://localhost:8000. Use credentials from your `.env` file.
 
-**1. Login  **
+**2. Login**
 
 ```bash
 curl -s -X POST http://localhost:8000/auth/login \
